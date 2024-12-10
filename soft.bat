@@ -54,8 +54,8 @@ goto :start
 goto :Eof
 
 :Links
-echo Github--
-echo Github profile--
+echo Github--https://github.com/vadisourcecodes/Soft/blob/main/soft.bat
+echo Github profile--https://github.com/vadisourcecodes
 pause
 goto :start
 goto :Eof
@@ -64,4 +64,5 @@ goto :Eof
 Exit
 goto :start
 goto :Eof
+
 
